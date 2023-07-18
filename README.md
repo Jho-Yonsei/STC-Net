@@ -1,2 +1,2 @@
 # STC-Net
-[ICCV 2023] Leveraging Spatio-Temporal Dependency for Skeleton-Based Action Recognition
+Official implementation of [Leveraging Spatio-Temporal Dependency for Skeleton-Based Action Recognition](https://arxiv.org/abs/2212.04761). [ICCV 2023]
